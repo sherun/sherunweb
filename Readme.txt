@@ -1,77 +1,43 @@
-Personal Website
+# 🌐 Personal Website
 
-A responsive personal portfolio website built using the Personal Resume Template from BootstrapMade.
-This project is used to showcase personal information, skills, projects, and contact details in a modern and responsive design.
+A **responsive personal portfolio website** built using the **Personal Resume Template** from **BootstrapMade**.  
+This project showcases **personal information, skills, projects, and contact details** in a modern and responsive design.
 
-🌐 Template Information
+---
 
-Template Name: Personal
+## 📌 Template Information
 
-Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+- **Template Name:** Personal  
+- **Template URL:** https://bootstrapmade.com/personal-free-resume-bootstrap-template/  
+- **Author:** BootstrapMade.com  
+- **License:** https://bootstrapmade.com/license/  
 
-Author: BootstrapMade.com
+---
 
-License: https://bootstrapmade.com/license/
+## 🚀 Features
 
-🚀 Features
+- 📱 Responsive design (mobile friendly)
+- 🧑‍💻 Portfolio / projects section
+- 📄 Skills and resume section
+- 📬 Contact form
+- 🔗 Smooth scrolling navigation
+- ⚡ Built with Bootstrap framework
 
-Responsive design (mobile friendly)
+---
 
-Portfolio / projects section
+## 🛠️ Technologies Used
 
-Skills and resume section
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Bootstrap**
+- **Boxicons / Bootstrap Icons**
 
-Contact form
+---
 
-Smooth scrolling navigation
+## 📦 Installation
 
-Built with Bootstrap framework
+Clone the repository:
 
-🛠️ Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Bootstrap
-
-Boxicons / Bootstrap Icons
-
-📦 Installation
-
-Clone the repository
-
+```bash
 git clone https://github.com/yourusername/personal-website.git
-
-Open the project folder
-
-cd personal-website
-
-Open index.html in your browser.
-
-✏️ Customization
-
-You can customize:
-
-Profile information
-
-Skills
-
-Portfolio projects
-
-Contact details
-
-Colors and layout
-
-All main content can be edited in index.html and the styles in assets/css/style.css.
-
-📄 License
-
-This project uses a free template from BootstrapMade.
-Please check the license details before using it for commercial purposes.
-
-🙌 Credits
-
-Design template by BootstrapMade.
