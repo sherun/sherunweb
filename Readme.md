@@ -40,4 +40,4 @@ This project showcases **personal information, skills, projects, and contact det
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/personal-website.git
+https://github.com/sherun/sherunweb.git
